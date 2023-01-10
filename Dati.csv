@@ -1,0 +1,11 @@
+crack,write,-web,-wifi,-info,spia,-i,-d,gui,-o,server,APPALERMO,appalermo,-help,RISPOSTA
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,tookWebs
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,tookWebs
+0,1,1,0,0,0,0,0,0,0,0,0,0,0,writeWebs
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,tookINFO
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,SPIA-I
+0,0,0,0,0,1,0,1,0,0,0,0,0,0,SPIA-D
+0,0,0,0,0,0,0,0,1,1,0,0,0,0,OPEN-GUI
+0,0,0,0,0,0,0,1,0,0,1,0,0,0,SERVER-DOWN
+0,0,0,0,0,0,0,0,0,0,0,1,1,0,ACCESSO-CONS
+0,0,0,0,0,0,0,0,0,0,1,0,0,1,COMM-HELP

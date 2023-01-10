@@ -1,0 +1,12 @@
+nome = input("Inserisci il Nome Utente: ")
+codice = getpass.getpass("Inserisci la Password: ")
+
+if (nome == "APPALERMO") and (codice == "appalermo"):
+    print("Server Arrestato da: [{}:{}]".format(*client_address))
+    print("=============================================", end="\n")
+    sendmessage("Server in fase di Arresto")
+    exit()
+else:
+    print("Il server è stato cercato di essere arrestato da: [{}:{}]".format(*client_address))
+    print("=============================================", end="\n")
+    sendmessage("Nome Utente o Password Errati: Non puoi arrestare il Server!")
