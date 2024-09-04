@@ -1,1 +1,1 @@
-APPunto|Fare riconoscimento vocale con tensorflow e torch
+accensione
