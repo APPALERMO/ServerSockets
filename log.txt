@@ -1,1 +1,1 @@
-APPunto|JARVIS: fare in modo che quando non trova niente nel db dice non trovato e poi fa una ricerca con l'ai
+accensione
