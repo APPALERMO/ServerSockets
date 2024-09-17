@@ -1,0 +1,1 @@
+APPunto|Cambiare il programma del gui grafo con oggetti mettendo l'oggetto in un array e come tag l'indice di dove si trova
