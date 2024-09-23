@@ -1,1 +1,1 @@
-APPunto|Fare il programma che trasforma il link YouTube in file MP3 e fallo analizzare da recognizer Google per avere il testo 
+accensione
